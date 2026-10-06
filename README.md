@@ -14,7 +14,7 @@ different target or a different library design without changing the code.
 
 It was written for, and used in:
 
-> Kang CY, Ye S, Lee EA, An S, *et al.* Characterization of a new functional CRISPR-Cas9
+> Kang CY, Ye S, Lee EA, *et al.* Characterization of a new functional CRISPR-Cas9
 > from an unidentified bacterial strain.
 
 where it was used to determine the NNRRAY PAM of RsCas9, a type II-C CRISPR-Cas9 ortholog
